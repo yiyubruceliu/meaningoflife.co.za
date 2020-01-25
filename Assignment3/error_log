@@ -1,0 +1,9 @@
+[17-Sep-2016 08:47:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/Assignment3/index.php on line 13
+[17-Sep-2016 08:47:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/Assignment3/index.php on line 13
+[17-Sep-2016 08:52:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/Assignment3/index.php on line 13
+[17-Sep-2016 10:48:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/Assignment3/index.php on line 13
+[17-Sep-2016 11:28:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/index.php on line 13
+[17-Sep-2016 15:29:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/Assignment3/index.php on line 13
+[17-Sep-2016 21:05:27 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/Assignment3/index.php on line 13
+[18-Sep-2016 03:06:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/Assignment3/index.php on line 13
+[18-Sep-2016 11:02:16 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/meaniyng/public_html/Assignment3/index.php on line 13

@@ -1,0 +1,1 @@
+[07-Feb-2018 16:01:39 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/meaniyng/public_html/Ass3/wp-admin/includes/class-wp-upgrader-skin.php on line 93

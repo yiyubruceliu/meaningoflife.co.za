@@ -1,0 +1,194 @@
+{
+  "id": "index.html",
+  "dependencies": [
+    {
+      "name": "./img\\favicon.ico",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\img\\favicon.ico",
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./css\\clean-blog.css",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\css\\clean-blog.css",
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./index.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\index.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./about.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\about.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./contact.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\contact.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./MyMeaningOfLife.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\MyMeaningOfLife.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./WhatIsTheMeaningOfLife.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\WhatIsTheMeaningOfLife.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./EmotionsWithNoAnswer.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\EmotionsWithNoAnswer.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./TheBoy.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\TheBoy.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./WalkingThePath.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\WalkingThePath.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./Karaoke.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\Karaoke.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./SingingLessons.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\SingingLessons.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./TheLabSeat.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\TheLabSeat.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./TheOcean.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\TheOcean.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./ChloeTheFish.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\ChloeTheFish.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./TheBathroomJourneyBreakOnTheBench.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\TheBathroomJourneyBreakOnTheBench.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./TheWhatsAppStatus.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\TheWhatsAppStatus.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./TheTurd.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\TheTurd.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./WhatIsTheValueOfTheRock.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\WhatIsTheValueOfTheRock.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./AGlimpseOfTheNewWorld.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\AGlimpseOfTheNewWorld.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./RevisitOfTheNumbHand.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\RevisitOfTheNumbHand.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./Toby.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\Toby.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./NumbHand.html",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\NumbHand.html",
+      "entry": true,
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "./index.js",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\index.js",
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "D:\\Project\\meaningoflife.co.za\\package.json",
+      "includedInParent": true,
+      "mtime": 1579916280612
+    },
+    {
+      "name": "./img\\background.jpg",
+      "dynamic": true,
+      "resolved": "D:\\Project\\meaningoflife.co.za\\img\\background.jpg",
+      "loc": { "line": 1, "column": 1 },
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html"
+    },
+    {
+      "name": "_css_loader",
+      "parent": "D:\\Project\\meaningoflife.co.za\\index.html",
+      "resolved": "D:\\Project\\meaningoflife.co.za\\node_modules\\parcel-bundler\\src\\builtins\\css-loader.js"
+    }
+  ],
+  "generated": {
+    "html": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\r\n    <meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\r\n    <link rel=\"icon\" href=\"/3d871e89e30a0ac3a73a3f8efc7b9a6e.ico\" type=\"image/x-icon\">\r\n    <meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n    <meta name=\"description\" content=\"My personal adventure while discovering more about what the is the Meaning of Life\">\r\n    <meta name=\"keyword\" content=\"Meaning of Life, adventure, discovering \">\r\n    <meta name=\"author\" content=\"Meaning of Life\">\r\n    <meta name=\"subject\" content=\"Blog\">\r\n    <meta name=\"language\" content=\"English\">\r\n    <meta http-equiv=\"cache-control\" content=\"public\">\r\n    <meta name=\"designer\" content=\"LiuPark (Pty) Ltd.\">\r\n    <meta name=\"distribution\" content=\"Global\">\r\n    <meta name=\"robots\" content=\"index,follow\">\r\n    <meta name=\"city\" content=\"Pretoria\">\r\n    <meta name=\"country\" content=\"South Africa\">\r\n    <meta name=\"copyright\" content=\"Copyright © 2016 Meaning of Life. All Rights Reserved.\">\r\n    <title>Meaning of Life | Home Page</title>\r\n    <link href=\"/2d0b2248776547ae6992a6c55b8a6228.css\" rel=\"stylesheet\">\r\n\r\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\r\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\r\n    <!--[if lt IE 9]>\r\n      <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\r\n      <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\r\n    <![endif]-->\r\n    <script>(function (i, s, o, g, r, a, m) {\n  i[\"GoogleAnalyticsObject\"] = r;\n  i[r] = i[r] || function () {\n    (i[r].q = i[r].q || []).push(arguments);\n  }, i[r].l = 1 * new Date();\n  a = s.createElement(o), m = s.getElementsByTagName(o)[0];\n  a.async = 1;\n  a.src = g;\n  m.parentNode.insertBefore(a, m);\n})(window, document, \"script\", \"https://www.google-analytics.com/analytics.js\", \"ga\");\n\nga(\"create\", \"UA-39149944-2\", \"auto\");\nga(\"send\", \"pageview\");</script>\r\n  </head>\r\n  <body>\r\n    <nav class=\"navbar navbar-default navbar-custom navbar-fixed-top\">\r\n      <div class=\"container-fluid\">\r\n        <div class=\"navbar-header page-scroll\">\r\n          <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#navitem\">\r\n            <span class=\"sr-only\">Toggle navigation</span>\r\n            <span class=\"icon-bar\"></span>\r\n            <span class=\"icon-bar\"></span>\r\n            <span class=\"icon-bar\"></span>\r\n          </button>\r\n          <a class=\"navbar-brand\" href=\"/eacf331f0ffc35d4b482f1d15a887d3b.html\">Meaning of Life</a>\r\n        </div>\r\n        <div class=\"collapse navbar-collapse\" id=\"navitem\">\r\n          <ul class=\"nav navbar-nav navbar-right\">\r\n            <li>\r\n              <a href=\"/eacf331f0ffc35d4b482f1d15a887d3b.html\">Home</a>\r\n            </li>\r\n            <li>\r\n              <a href=\"/fb8a140d6f076647256a4ea161f4c280.html\">About</a>\r\n            </li>\r\n            <li>\r\n              <a href=\"/6d2cd37929c7c76ab3de0a8538b13998.html\">Contact</a>\r\n            </li>\r\n          </ul>\r\n        </div>\r\n      </div>\r\n    </nav>\r\n    <header class=\"intro-header\" style=\"background-image: url('/a7d7726e3e644d205d1f5bbc004d778f.jpg')\">\r\n      <div class=\"container\">\r\n        <div class=\"row\">\r\n          <div class=\"col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1\">\r\n            <div class=\"site-heading\">\r\n              <h1>Meaning of Life</h1>\r\n              <hr class=\"small outlineblack\">\r\n              <span class=\"subheading outlineblack\">My personal <i>adventure</i> while discovering more</span>\r\n              <div style=\"margin-top:30px\" id=\"sharebuttons\" class=\"text-center\">\r\n                <p class=\"outlineblack\" style=\"margin-bottom:15px;color:black;\">\r\n                  Share this page\r\n                </p>\r\n                <span class=\"st_facebook_large\" displaytext=\"Facebook\"></span>\r\n                <span class=\"st_twitter_large\" displaytext=\"Tweet\"></span>\r\n                <span class=\"st_googleplus_large\" displaytext=\"Google +\"></span>\r\n                <span class=\"st_linkedin_large\" displaytext=\"LinkedIn\"></span>\r\n                <span class=\"st_pinterest_large\" displaytext=\"Pinterest\"></span>\r\n                <span class=\"st_email_large\" displaytext=\"Email\"></span>\r\n\r\n                <script>var switchTo5x = true;</script>\r\n                <script type=\"text/javascript\" src=\"http://w.sharethis.com/button/buttons.js\"></script>\r\n                <script>stLight.options({\n  publisher: \"982523b1-f745-4da1-a991-53edadd4aa80\",\n  doNotHash: false,\n  doNotCopy: false,\n  hashAddressBar: false\n});</script>\r\n              </div>\r\n            </div>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </header>\r\n    <div class=\"container\">\r\n      <div class=\"row\">\r\n        <div class=\"col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1\">\r\n          <p>\r\n            Walking down the aisle lined up with blooming jacaranda trees on\r\n            both sides. I glared up into the cloud filled sky only to see a bird\r\n            flying past. Something was strange about this bird.\r\n          </p>\r\n          <p>\r\n            The bird was missing feathers on its right wing. Swerving with\r\n            imbalance, it glides pasted slowly.\r\n          </p>\r\n          <p>Such is life ... our beautifully designed imperfect reality.</p>\r\n          <p class=\"text-center\" style=\"color:red;font-weight:bold\">\r\n            The most recent post is at the top\r\n          </p>\r\n        </div>\r\n\r\n        <div class=\"col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1\">\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/cb8d098844f228338562e3f98616581f.html\">\r\n              <h2 class=\"post-title\">\r\n                My Meaning of Life\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Digging into my thoughts on what is the meaning of life.\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on October 1, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FMyMeaningOfLife.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/366b5b95b9cb42154703df393bde3fe7.html\">\r\n              <h2 class=\"post-title\">\r\n                What is the Meaning of Life?\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Taking a perspective thinking exersice to see the big picture\r\n                from different angles\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on September 24, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FWhatIsTheMeaningOfLife.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/392f2d0b28b281902efcc6355ae4b295.html\">\r\n              <h2 class=\"post-title\">\r\n                Emotions with no Answer\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                I lost my ability to speak\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on September 13, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FEmotionsWithNoAnswer.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/ccaa5dbeab78ca9432db15dc3b4f5527.html\">\r\n              <h2 class=\"post-title\">\r\n                The Boy\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Staring at the Angel\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on August 2, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FTheBoy.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/2cf40258f8f639144f0e6b4dbb1ae3db.html\">\r\n              <h2 class=\"post-title\">\r\n                Walking the Path\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Dealing with Uncertainty\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on July 1, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FWalkingThePath.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/3d6faa47c56f2bd5856a6af8ae89bcd1.html\">\r\n              <h2 class=\"post-title\">\r\n                Karaoke\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Our fantasy and our reality can be two completely different\r\n                things\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on July 1, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FKaraoke.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/419b87d3a0d30828b7b30ae45ae66a58.html\">\r\n              <h2 class=\"post-title\">\r\n                Singing Lessons\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Feeling the Perfection\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on July 1, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FSingingLessons.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/3055ee19ae507421dd653d472d1388bc.html\">\r\n              <h2 class=\"post-title\">\r\n                The Lab Seat\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                An objective perspective on life\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on June 27, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FTheLabSeat.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/a0e669c05e7a6255b64c383a12ad713b.html\">\r\n              <h2 class=\"post-title\">\r\n                The Ocean\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Jump into the ocean and you will see something mysterious\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on June 19, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FTheOcean.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/78f3d57f7f4859796ec026f1a335611c.html\">\r\n              <h2 class=\"post-title\">\r\n                Chloe, The Fish\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                When a person seeks, they will find something mysterious\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on June 15, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FChloeTheFish.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/e0314af91120c75c6be89702fb205a92.html\">\r\n              <h2 class=\"post-title\">\r\n                The Bathroom Journey Break on the Bench\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                How long does a fire burn for?\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on June 7, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FTheBathroomJourneyBreakOnTheBench.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/1eb592d45586b7bec59b2fd006794ed7.html\">\r\n              <h2 class=\"post-title\">\r\n                The whatsapp status\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                That one thing that you do that takes you on a memory trip\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on June 4, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FTheWhatsAppStatus.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/6597ffba888063faf1edf9fe86aa1ae1.html\">\r\n              <h2 class=\"post-title\">\r\n                The Turd\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                The turd that gave meaning\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on June 4, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FTheTurd.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/13e1d93bc2967ceeb1524bc18cc5cc96.html\">\r\n              <h2 class=\"post-title\">\r\n                What is the value of a rock?\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Is it the same rock?\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on May 30, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FWhatIsTheValueOfTheRock.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/c2b5f55961a8946babe3595f09709463.html\">\r\n              <h2 class=\"post-title\">\r\n                A Glimpse of the new World\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                The next stop street of Toby's adventure\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on May 22, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FAGlimpseOfTheNewWorld.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/2d9487d656f22f7e555d1e14891a6e25.html\">\r\n              <h2 class=\"post-title\">\r\n                Revisit of the Numb Hand\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                We can only truly understand people once we have experienced\r\n                their pain\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on May 10, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FRevisitOfTheNumbHand.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/0d5366b84118b398fe28e460fa03ef8f.html\">\r\n              <h2 class=\"post-title\">\r\n                The Ant Toby\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                Affinity from the pool of energy\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on May 8, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FToby.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <div class=\"post-preview\">\r\n            <a href=\"/d6ed174618198d7f89580f5e15c43a79.html\">\r\n              <h2 class=\"post-title\">\r\n                Numb Hand\r\n              </h2>\r\n              <h3 class=\"post-subtitle\">\r\n                The meaning of our physical body is limited to our knowledge\r\n              </h3>\r\n            </a>\r\n            <p class=\"post-meta\">\r\n              Posted by <a href=\"#\">Meaning of Life</a> on March 11, 2016\r\n            </p>\r\n            <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2FNumbHand.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          </div>\r\n\r\n          <hr>\r\n          <h3>Like our website below</h3>\r\n          <iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.meaningoflife.co.za%2Findex.html&width=450&layout=standard&action=like&show_faces=true&share=false&height=80&appId=812361508863971\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\r\n          <!-- Pager -->\r\n          <!--<ul class=\"pager\">\r\n                    <li class=\"next\">\r\n                        <a href=\"#\">Older Posts &rarr;</a>\r\n                    </li>\r\n                </ul>-->\r\n        </div>\r\n      </div>\r\n    </div>\r\n    <hr>\r\n    <footer>\r\n      <div class=\"container\">\r\n        <div class=\"row\">\r\n          <h2 class=\"text-center\">Follow me</h2>\r\n          <div class=\"col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1\">\r\n            <ul class=\"list-inline text-center\">\r\n              <li>\r\n                <a href=\"https://twitter.com/@meaningoflife06\">\r\n                  <span class=\"fa-stack fa-lg\">\r\n                    <i class=\"fa fa-circle fa-stack-2x\"></i>\r\n                    <i class=\"fa fa-twitter fa-stack-1x fa-inverse\"></i>\r\n                  </span>\r\n                </a>\r\n              </li>\r\n              <li>\r\n                <a href=\"https://www.facebook.com/MeaningOfLife6/\">\r\n                  <span class=\"fa-stack fa-lg\">\r\n                    <i class=\"fa fa-circle fa-stack-2x\"></i>\r\n                    <i class=\"fa fa-facebook fa-stack-1x fa-inverse\"></i>\r\n                  </span>\r\n                </a>\r\n              </li>\r\n              <li>\r\n                <!-- <a\r\n                  href=\"https://plus.google.com/116140218948696801542\"\r\n                  target=\"_blank\"\r\n                >\r\n                  <span class=\"fa-stack fa-lg\">\r\n                    <i class=\"fa fa-circle fa-stack-2x\"></i>\r\n                    <i class=\"fa fa-google-plus fa-stack-1x fa-inverse\"></i>\r\n                  </span>\r\n                </a> -->\r\n              </li>\r\n            </ul>\r\n            <p class=\"copyright text-muted\">\r\n              Copyright &copy; Meaning of Life 2016\r\n            </p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </footer>\r\n    <script src=\"/168726dbe96b3ce427e7fedce31bb0bc.js\"></script>\r\n  </body>\r\n</html>\r\n"
+  },
+  "sourceMaps": null,
+  "error": null,
+  "hash": "a33a9a4c8d9cdbeb8b79b971b3072d59",
+  "cacheData": { "env": {} }
+}

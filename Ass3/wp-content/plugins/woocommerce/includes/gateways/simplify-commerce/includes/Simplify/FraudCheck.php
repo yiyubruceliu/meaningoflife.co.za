@@ -45,7 +45,7 @@ class Simplify_FraudCheck extends Simplify_Object {
 	 *     <dt><tt>card.number</tt></dt>    <dd>Card number as it appears on the card. [max length: 19, min length: 13] <strong>required </strong></dd>
 	 *     <dt><tt>currency</tt></dt>    <dd>Currency code (ISO-4217) for the transaction to be checked for fraud. </dd>
 	 *     <dt><tt>description</tt></dt>    <dd>- Description of the fraud check. </dd>
-	 *     <dt><tt>mode</tt></dt>    <dd>Fraud check mode.  “simple” only does an AVS and CVC check; “advanced” does a complete fraud check, running the input against the set up rules. [valid values: simple, advanced, full] <strong>required </strong></dd>
+	 *     <dt><tt>mode</tt></dt>    <dd>Fraud check mode.  "simple" only does an AVS and CVC check; "advanced" does a complete fraud check, running the input against the set up rules. [valid values: simple, advanced, full] <strong>required </strong></dd>
 	 *     <dt><tt>sessionId</tt></dt>    <dd>Session ID usd during data collection. [max length: 255] </dd>
 	 *     <dt><tt>token</tt></dt>    <dd>Description </dd></dl>
 	 * @param     $authentication -  information used for the API call.  If no value is passed the global keys Simplify::public_key and Simplify::private_key are used.  <i>For backwards compatibility the public and private keys may be passed instead of the authentication object.<i/>

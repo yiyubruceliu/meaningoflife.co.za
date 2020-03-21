@@ -550,7 +550,7 @@ global $wpdb;
 				_x( 'My Account', 'Page setting', 'woocommerce' ) => array(
 						'option'    => 'woocommerce_myaccount_page_id',
 						'shortcode' => '[' . apply_filters( 'woocommerce_my_account_shortcode_tag', 'woocommerce_my_account' ) . ']',
-						'help'      => __( 'The URL of your WooCommerce shop\'s “My Account” Page (along with the page ID).', 'woocommerce' ),
+						'help'      => __( 'The URL of your WooCommerce shop\'s "My Account" Page (along with the page ID).', 'woocommerce' ),
 					)
 			);
 

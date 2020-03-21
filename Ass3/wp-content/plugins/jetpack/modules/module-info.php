@@ -61,7 +61,7 @@ function jetpack_shortcodes_more_info() { ?>
 	<?php esc_html_e(
 		'Easily and safely embed media from YouTube, Facebook, Flickr, Vimeo, Instagram,
 		Google Maps, SlideShare, Vine, SoundCloud, and more. Just enter the appropriate shortcode directly into the
-		editor and click “Publish.”'
+		editor and click "Publish."'
 		, 'jetpack' );
 }
 add_action( 'jetpack_module_more_info_shortcodes', 'jetpack_shortcodes_more_info' );

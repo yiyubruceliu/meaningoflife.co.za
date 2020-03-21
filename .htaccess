@@ -1,15 +1,23 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^meaningoflife.co.za[nc]
-RewriteRule ^(.*)$ http://www.meaningoflife.co.za/$1 [r=301,nc]
-Redirect 301 /meaningoflife.co.za/ /www.meaningoflife.co.za/
-<FilesMatch "\.(jpg|png|css|js|woff)$">
-Header set Cache-Control "public, proxy-revalidate, max-age=36288000"
-</FilesMatch>
+Options +FollowSymLinks
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^meaningoflife.co.za[nc]
+
+RewriteRule ^(.*)$ http://www.meaningoflife.co.za/$1 [r=301,nc]
+
+Redirect 301 /meaningoflife.co.za/ /www.meaningoflife.co.za/
+
+<FilesMatch "\.(jpg|png|css|js|woff)$">
+""
+Header set Cache-Control "public, proxy-revalidate, max-age=36288000"
+
+</FilesMatch>
+
 ErrorDocument 404 /error/404.html
 
 # php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php56” package as the default “PHP” programming language.
+# Set the "ea-php56” package as the default "PHP” programming language.
 <IfModule mime_module>
   AddHandler application/x-httpd-ea-php56 .php .php5 .phtml
 </IfModule>

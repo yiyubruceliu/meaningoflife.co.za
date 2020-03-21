@@ -12127,7 +12127,7 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:553
 msgid ""
-"The URL of your WooCommerce shop's “My Account” Page (along with the page "
+"The URL of your WooCommerce shop's "My Account" Page (along with the page "
 "ID)."
 msgstr ""
 

@@ -484,3 +484,7 @@ body {
   background: #bb0000;
   color: white;
 }
+
+button[type=submit] {
+  background-color: grey !important;
+}
